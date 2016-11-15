@@ -50,7 +50,7 @@ Docker
 
 You can use Docker to build your stubs:
 
-     FROM subzero:latest
+     FROM zasimov/subzero:latest
 
      ADD scroll.txt /scroll.txt
 
